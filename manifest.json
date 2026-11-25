@@ -1,0 +1,16 @@
+{
+  "name": "StepCalc Ultra Max",
+  "short_name": "StepCalc",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#060a12",
+  "theme_color": "#060a12",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Crect width='512' height='512' fill='%23060a12'/%3E%3Crect x='40' y='40' width='432' height='432' rx='100' fill='%2338bdf8'/%3E%3Ctext x='256' y='295' font-family='sans-serif' font-size='180' font-weight='bold' fill='%23041024' text-anchor='middle'%3E%E2%81%BF%E2%88%9A%3C/text%3E%3C/svg%3E",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
